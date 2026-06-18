@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Abhiram 👋
 
-<!--
-**rAbhiram-github/rAbhiram-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE (AI & ML) @ Sri Sairam Engineering College  
+🎓 BS in Data Science @ IIT Madras  
+🔬 Former Research Intern @ USC (IUSSTF-Viterbi Scholar)  
+🤖 Machine Learning • Deep Learning • Generative AI  
+📚 IEEE Author | Research Enthusiast
 
-Here are some ideas to get you started:
+## Currently Working On
+- AI for Healthcare & Education
+- Machine Learning Research
+- Deep Learning Applications
+- Open Source Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python • PyTorch • TensorFlow • Scikit-Learn • SQL • Git • Google Cloud
+
+## Featured Projects
+🧠 MXene Therapeutics Classifier  
+👁️ Retinal Disease Stage Classification  
+📈 Smart Stocks Forecasting  
+🍽️ AI-Powered Ingredient Detector
+
+## Connect With Me
+📧 abhiramradhakrishnan6112@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/abhiram-radhakrishnan-95373021b/
+
+> Building AI that solves real-world problems.
