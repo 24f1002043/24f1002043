@@ -4,7 +4,6 @@
 🎓 BS in Data Science @ IIT Madras  
 🔬 Former Research Intern @ USC (IUSSTF-Viterbi Scholar)  
 🤖 Machine Learning • Deep Learning • Generative AI  
-📚 IEEE Author | Research Enthusiast
 
 ## Currently Working On
 - AI for Healthcare & Education
