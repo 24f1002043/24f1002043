@@ -6,7 +6,8 @@
 - Machine Learning • Deep Learning • Generative AI  
 
 ## Currently Working On
-- AI for Healthcare & Education
+- AI for Healthcare
+- Speech & affective computing
 - Machine Learning Research
 - Deep Learning Applications
 
@@ -16,7 +17,6 @@ Python • PyTorch • TensorFlow • Scikit-Learn • SQL • Git • Google Cl
 ## Featured Projects
 - MXene Therapeutics Classifier  
 - Retinal Disease Stage Classification  
-- Smart Stocks Forecasting  
 - AI-Powered Ingredient Detector
 
 ## Connect With Me
