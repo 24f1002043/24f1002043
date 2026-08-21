@@ -16,7 +16,8 @@ Python • PyTorch • TensorFlow • Scikit-Learn • SQL • Git • Google Cl
 
 ## Featured Projects
 - MXene Therapeutics Classifier  
-- Retinal Disease Stage Classification  
+- Retinal Disease Stage Classification
+- COVID-19 Tweet Sentiment Analysis
 - AI-Powered Ingredient Detector
 
 ## Connect With Me
