@@ -9,7 +9,6 @@
 - AI for Healthcare & Education
 - Machine Learning Research
 - Deep Learning Applications
-- Open Source Projects
 
 ## Tech Stack
 Python • PyTorch • TensorFlow • Scikit-Learn • SQL • Git • Google Cloud
