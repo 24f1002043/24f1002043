@@ -3,6 +3,7 @@
 I work on speech and affective computing: what speech models actually learn
 about emotion and health, and when benchmark numbers mislead.
 
+- B.S. Data Science and Applications, IITM
 - B.E. CSE (AI & ML), Sri Sairam Engineering College (2027)
 - AI Intern, Speech Emotion Recognition, Neurolonic (Oct 2025 – present)
 - IUSSTF-Viterbi Fellow, University of Southern California (2025)
