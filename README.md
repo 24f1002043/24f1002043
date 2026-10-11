@@ -19,7 +19,7 @@ about emotion and health, and when benchmark numbers mislead.
 ## Other projects
 - [RetinaTriage](https://github.com/24f1002043/retinatriage): diabetic
   retinopathy staging with Grad-CAM (FastAPI, React, PyTorch)
-- [COVID-19 tweet sentiment](https://github.com/24f1002043/covid-tweets-sentiment-analysis)
+- [COVID-19 tweet sentiment](https://github.com/24f1002043/covid-tweets-sentiment-analysis): TF-IDF + logistic regression sentiment classifier on 41k COVID-19 tweets
 
 abhiramradhakrishnan6112@gmail.com ·
 [LinkedIn](https://www.linkedin.com/in/abhiram-radhakrishnan-95373021b/)
